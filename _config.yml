@@ -3,10 +3,10 @@ description: Personal website.
 
 author:
   name: Yousuf Khan
-  email: yousufshah.khan@mail.utoronto.ca
 
 minima:
   social_links:
+    - { icon: "envelope", title: "Email", url: "mailto:yousufshah.khan@mail.utoronto.ca" }
     - { icon: "github", title: "GitHub", url: "https://github.com/yousufk1729" }
     - { icon: "linkedin", title: "LinkedIn", url: "https://www.linkedin.com/in/yousuf-khan-12569431b" }
 
