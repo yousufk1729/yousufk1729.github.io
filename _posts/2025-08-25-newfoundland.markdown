@@ -2,11 +2,10 @@
 layout: post
 title:  "Newfoundland 2025"
 date:   2025-08-25 
+permalink: /newfoundland
 ---
 
-# Newfoundland 2025
-
-*All photos taken by me with iPhone XS.* 
+*All photos taken by me with iPhone XS.*
 *Maximize videos when playing to avoid weird downscaling artifacts.*
 
 <figure>
