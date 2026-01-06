@@ -1,17 +1,9 @@
 title: Critique of Pure Slurp
 description: Personal website.  
-  
-baseurl: ""
-url: "https://yousufk1729.github.io"
-repository: "yousufk1729/yousufk1729.github.io"
-locale: "en-US"
 
 author:
   name: Yousuf Khan
   email: yousufshah.khan@mail.utoronto.ca
-
-github_username: "yousufk1729"
-linkedin_username: yousuf-khan-12569431b
 
 plugins:
   - jekyll-feed
