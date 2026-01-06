@@ -1,3 +1,3 @@
 # Critique of Pure Slurp
 
-This website is for short reflections about my life. 
+This website is for short reflections about my life.
