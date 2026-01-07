@@ -2,7 +2,7 @@
 layout: post
 title:  "One Year of Lifting: A Reflection"
 date:   2023-06-18 
-image1: /assets/images/dl.PNG
+image1: /assets/images/dl.png
 image2: /assets/images/chart.jpg
 permalink: /one
 ---

@@ -2,7 +2,6 @@
 layout: post
 title:  "Two Years of Lifting: A Reflection"
 date:   2024-06-08
-video1: /assets/videos/vid1.mov
 permalink: /two
 ---
 
@@ -56,9 +55,8 @@ making it easier to finish the top of the lift.^^^
 
 ^^^The top of the deadlift is a bar hump. Imagine humping (something) with your toes pointed inwards, then with your toes pointed outwards. Outwards should feel more powerful (:flushed:).
 
-<video width="720" height="720" controls loop = "" muted = "" autoplay = "">
-<source src="https://github.com/yousufk1729/critiqueofpureslurp/raw/gh-pages/assets/videos/vid1.mov">
-</video>
+(video coming soon)
+First 405lb Deadlift
 
 *(2 45s, a 35, a 25, 2 10s, a 5, and a 5lb sandbag (yes I checked) on either side on top of a 45lb bar = 405lb)*
 
