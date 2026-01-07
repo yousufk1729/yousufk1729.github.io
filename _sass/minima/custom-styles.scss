@@ -1,2 +1,24 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+@font-face {
+    font-family: 'Iosevka';
+    src: url('/assets/fonts/Iosevka-Regular.ttc') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+.site-logo {
+    height: 40px;
+    /* Adjust size as needed */
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.site-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+    font-family: $title-font-family;
+}
