@@ -2,9 +2,9 @@
 
 // Define defaults for each variable.
 
-$base-font-family: "Iosevka", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif !default;
-$code-font-family: "Iosevka", "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
-$title-font-family: "Iosevka", $base-font-family;
+$base-font-family: "Iosevka Web", "Segoe UI", sans-serif !default;
+$code-font-family: "Iosevka Web", "Courier New", monospace;
+$title-font-family: "Iosevka Web", $base-font-family;
 $base-font-size: 16px !default;
 $base-font-weight: 400 !default;
 $small-font-size: $base-font-size * 0.875 !default;
@@ -33,13 +33,13 @@ $on-large: $on-laptop !default;
 // Notice the following mixin uses max-width, in a deprecated, desktop-first
 // approach, whereas media queries used elsewhere now use min-width.
 @mixin media-query($device) {
-  @media screen and (max-width: $device) {
-    @content;
-  }
+    @media screen and (max-width: $device) {
+        @content;
+    }
 }
 
 @mixin relative-font-size($ratio) {
-  font-size: #{$ratio}rem;
+    font-size: #{$ratio}rem;
 }
 
 // Import pre-styling-overrides hook and style-partials.
