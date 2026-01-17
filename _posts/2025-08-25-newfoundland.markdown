@@ -48,11 +48,33 @@ permalink: /newfoundland
   <figcaption style="text-align:center;"><em>The Summit, Gros Morne National Park</em></figcaption>
 </figure>
 
-(video coming soon)
-Ten-Mile Pond, Gros Morne National Park
+<figure>
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+      src="https://www.youtube.com/embed/3B9w775Ajx8?rel=0&modestbranding=1"
+      title="Ten-Mile Pond, Gros Morne National Park"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
+  <figcaption style="text-align:center;"><em>Ten-Mile Pond, Gros Morne National Park</em></figcaption>
+</figure>
 
-(video coming soon)
-Rock Ptarmigans, Gros Morne National Park
+<figure>
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+      src="https://www.youtube.com/embed/SSi9EgV2rwQ?rel=0&modestbranding=1"
+      title="Rock Ptarmigans, Gros Morne National Park"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
+  <figcaption style="text-align:center;"><em>Rock Ptarmigans, Gros Morne National Park</em></figcaption>
+</figure>
 
 <figure>
   <img src="{{ '/assets/nl/08-05-5.jpg' | relative_url }}" alt="Stairway to Heaven, Gros Morne National Park">
@@ -84,25 +106,80 @@ Rock Ptarmigans, Gros Morne National Park
   <figcaption style="text-align:center;"><em>Tidal Pools, Point Riche</em></figcaption>
 </figure>
 
-(video coming soon)
-Caribou, Point Riche
+<figure>
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+      src="https://www.youtube.com/embed/LakwYLBXPPs?rel=0&modestbranding=1"
+      title="Caribou, Point Riche"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
+  <figcaption style="text-align:center;"><em>Caribou, Point Riche</em></figcaption>
+</figure>
 
 <figure>
   <img src="{{ '/assets/nl/IMG_7867.png' | relative_url }}" alt="One Fox, Two Fox, Red Fox, Blue Fox, Point Riche">
   <figcaption style="text-align:center;"><em>One Fox, Two Fox, Red Fox, Blue Fox, Point Riche</em></figcaption>
 </figure>
 
-(video coming soon)
-Canada Lynx, Gros Morne National Park
+<figure>
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+      src="https://www.youtube.com/embed/OgvlMeJbqDU?rel=0&modestbranding=1"
+      title="Canada Lynx, Gros Morne National Park"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
+  <figcaption style="text-align:center;"><em>Canada Lynx, Gros Morne National Park</em></figcaption>
+</figure>
 
-(video coming soon)
-Canada Lynx, Gros Morne National Park
+<figure>
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+      src="https://www.youtube.com/embed/nX2k6rRxc4o?rel=0&modestbranding=1"
+      title="Canada Lynx, Gros Morne National Park"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
+  <figcaption style="text-align:center;"><em>Canada Lynx, Gros Morne National Park</em></figcaption>
+</figure>
 
-(video coming soon)
-Puffins, Elliston
+<figure>
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+      src="https://www.youtube.com/embed/IXNqyg8D3aE?rel=0&modestbranding=1"
+      title="Puffins, Elliston"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
+  <figcaption style="text-align:center;"><em>Puffins, Elliston</em></figcaption>
+</figure>
 
-(video coming soon)
-Puffins, Elliston
+<figure>
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+      src="https://www.youtube.com/embed/fOBMFlKXCRk?rel=0&modestbranding=1"
+      title="Puffins, Elliston"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
+  <figcaption style="text-align:center;"><em>Puffins, Elliston</em></figcaption>
+</figure>
 
 <figure>
   <img src="{{ '/assets/nl/08-15-1.jpg' | relative_url }}" alt="Signal Hill, St. John's">
