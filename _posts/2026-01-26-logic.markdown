@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Logic"
+title:  "Lecture Note #1: Propositional Logic"
 date:   2026-01-26
 permalink: /logic
 ---
 
 ## **Disclaimer**
 
-This article primarily explains propositional logic/statement logic/sentential logic/zeroth-order logic. However, some definitions are given using predicate logic/first-order logic (i.e. the statement "for any" is used). Given that my introductory course I am currently taking does not bother to distinguish them as different systems when it gives definitions, I won't either for the time being.
+This article primarily explains propositional logic/statement logic/sentential logic/zeroth-order logic. However, some definitions are given using predicate logic/first-order logic (i.e. the statement "for any" is used). Given that the introductory course I am currently taking does not bother to distinguish them as different systems when it gives definitions, I won't either for the time being.
 
 We use symbols and definitions as the basis of logic. There are different standards, so I have chosen symbols and definitions based on my digital electronics coursework as well as the current philosophy course I am taking. This article tries to be self-contained and discipline-agnostic in that these tools can be used across philosophy, mathematics, and engineering.
 
@@ -21,7 +21,7 @@ There are colloquial definitions of logical terms and there are formal definitio
 
 **Molecular sentence:** A sentence made by combining together simple sentences with truth-functional connectives.
 
-**Truth-functional connective:** Operators that combine or modify simple sentences, such as NOT, OR, AND, and implication.
+**Truth-functional connective:** Operators that combine or modify simple sentences, such as NOT, OR, AND, and implication. Also known as logical operators. 
 
 **Statement:** A declarative sentence. Either true or false, but not both. 
 
@@ -57,7 +57,7 @@ There are colloquial definitions of logical terms and there are formal definitio
 
 ## **Descriptors for Arguments**
 
-**Validity:** An argument is (classically) valid iff there is no logically possible situation in which its premises are true and its conclusion is false.
+**Validity:** An argument is valid iff there is no logically possible situation in which its premises are true and its conclusion is false.
 
 **Soundness:** An argument is sound iff it is valid and its premises are true.
 
@@ -68,15 +68,15 @@ Given two propositions P and Q, we use the following symbols for truth-functiona
 * ¬P: Not P (Negation)  
 * P ∧ Q: P and Q (Conjunction)  
 * P ∨ Q: P or Q (Disjunction)  
-* P → Q: If P then Q (Implication)  
-* P ↔ Q: P if and only if Q (Biconditional)
+* P → Q: If P then Q (Conditional/Implication)  
+* P ↔ Q: P if and only if Q (Biconditional/Equivalence)
 
 We should note that AND and OR are commutative, associative, and distributive. 
 
 We should also note that P → Q means P is sufficient for Q, while Q is necessary for P. 
 
 Truth tables specify how the truth-value of a molecular sentence
-featuring some connective (normally just the rightmost column) is determined by the truth-
+featuring connectives (right column) is determined by the truth-
 values of simple sentences on which the connective operates (left columns):
 
 | P | Q | ¬P | P ∧ Q | P ∨ Q | P → Q | P ↔ Q |
@@ -90,7 +90,7 @@ values of simple sentences on which the connective operates (left columns):
 
 The proposition below is a tautology because it is logically impossible for it to be false. 
 
-For any proposition P, it is true or it is not true. This is also known as the Law of the Excluded Middle
+For any proposition P, it is true or it is not true. This is also known as the Law of the Excluded Middle. 
 ```
 P ∨ ¬P
 ```
@@ -117,6 +117,7 @@ P1. P → Q
 P2. P  
 C. Q
 ```
+
 **Modus Tollens:**
 
 If P, then Q. Not Q, therefore not P. 
@@ -125,6 +126,7 @@ P1. P → Q
 P2. ¬Q  
 C. ¬P
 ```
+
 **Double Negation:**
 
 P, therefore not not P. 
@@ -132,6 +134,7 @@ P, therefore not not P.
 P1. P  
 C. ¬¬P
 ```
+
 **De Morgan's Laws:**
 
 Not P and Q combined is equivalent to not P or not Q. Equivalently, not P or Q combined is equivalent to not P and not Q. 
@@ -142,6 +145,7 @@ C. ¬P ∨ ¬Q
 P1. ¬(P ∨ Q)  
 C. ¬P ∧ ¬Q
 ```
+
 **Simplification:**
 
 P and Q, therefore P. 
@@ -149,6 +153,7 @@ P and Q, therefore P.
 P1. P ∧ Q  
 C. P
 ```
+
 **Adjunction:**
 
 P, Q, therefore P and Q. 
@@ -157,6 +162,7 @@ P1. P
 P2. Q  
 C. P ∧ Q
 ```
+
 **Addition:**
 
 P, therefore P or Q. 
@@ -164,7 +170,8 @@ P, therefore P or Q.
 P1. P  
 C. P ∨ Q
 ```
-**Disjunctive Syllogism:**
+
+**Modus Tollendo Ponens/Disjunctive Syllogism:**
 
 P or Q. Not P, therefore Q. 
 ```
@@ -172,6 +179,7 @@ P1. P ∨ Q
 P2. ¬P  
 C. Q
 ```
+
 **Hypothetical Syllogism:**
 
 If P, then Q. If Q, then R. Therefore, if P, then R. 
